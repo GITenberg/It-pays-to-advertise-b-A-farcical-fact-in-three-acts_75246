@@ -1,5 +1,8 @@
 _repo: It-pays-to-advertise-b-A-farcical-fact-in-three-acts_75246
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 75246-h/images/cover.jpg
 creator:
   authors:
   - agent_name: Megrue, Roi Cooper
@@ -16,6 +19,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/48093
     wikipedia: https://en.wikipedia.org/wiki/Walter_C._Hackett
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/75246#It-pays-to-advertise-b-A-farcical-fact-in-three-acts
 gutenberg_issued: '2025-01-29'
 gutenberg_type: Text
 identifiers:
